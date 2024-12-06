@@ -3,7 +3,7 @@
 # CQC-QHE
 
 
-[![arXiv](http://img.shields.io/badge/arXiv-aaaa.bbbbb-B31B1B.svg)]()
+[![arXiv](http://img.shields.io/badge/arXiv-2412.01966-B31B1B.svg)]()
 
 <!--
 [![Journal](http://img.shields.io/badge/....svg)](https://...)
@@ -42,9 +42,9 @@ There are example tutorials implementing the quantum and semiclassical walks of 
 ### Citation   
 ```
 @article{ortega2024cqc-qhe,
-  title={...},
+  title={Implementing Semiclassical Szegedy Walks in Classical-Quantum Circuits for Homomorphic Encryption},
   author={Ortega, S. A. and Fernandez, P. and Martin-Delgado, M. A.},
-  journal={arXiv:},
+  journal={arXiv:2412.01966},
   year={2024},
 }
 ```
@@ -52,7 +52,7 @@ There are example tutorials implementing the quantum and semiclassical walks of 
 <!---
 ```
 @article{ortega2024cqc-qhe,
-  title={...},
+  title={Implementing Semiclassical Szegedy Walks in Classical-Quantum Circuits for Homomorphic Encryption},
   author={Ortega, S. A. and Fernandez, P. and Martin-Delgado, M. A.},
   journal={...},
   volume={...},
