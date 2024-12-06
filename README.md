@@ -43,7 +43,7 @@ There are example tutorials implementing the quantum and semiclassical walks of 
 ```
 @article{ortega2024cqc-qhe,
   title={Implementing Semiclassical Szegedy Walks in Classical-Quantum Circuits for Homomorphic Encryption},
-  author={Ortega, S. A. and Fernandez, P. and Martin-Delgado, M. A.},
+  author={Ortega, S. A. and Fernández, P. and Martin-Delgado, M. A.},
   journal={arXiv:2412.01966},
   year={2024},
 }
@@ -53,7 +53,7 @@ There are example tutorials implementing the quantum and semiclassical walks of 
 ```
 @article{ortega2024cqc-qhe,
   title={Implementing Semiclassical Szegedy Walks in Classical-Quantum Circuits for Homomorphic Encryption},
-  author={Ortega, S. A. and Fernandez, P. and Martin-Delgado, M. A.},
+  author={Ortega, S. A. and Fernández, P. and Martin-Delgado, M. A.},
   journal={...},
   volume={...},
   number={...},
