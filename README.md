@@ -3,7 +3,7 @@
 # CQC-QHE
 
 
-[![arXiv](http://img.shields.io/badge/arXiv-2412.01966-B31B1B.svg)]()
+[![arXiv](http://img.shields.io/badge/arXiv-2412.01966-B31B1B.svg)](https://arxiv.org/abs/2412.01966)
 
 <!--
 [![Journal](http://img.shields.io/badge/....svg)](https://...)
