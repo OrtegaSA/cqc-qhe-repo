@@ -1,3 +1,1 @@
 numpy
-qiskit>=1.0
-qiskit-aer

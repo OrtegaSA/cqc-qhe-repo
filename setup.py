@@ -4,7 +4,7 @@ with open("requirements.txt") as f:
     REQUIREMENTS = f.read().splitlines()
 
 setup(name='cqc-qhe',
-      version='1.0',
+      version='2.0',
       description='Classical-Quantum Circuits for Quantum Homomorphic Encryption',
       author='Sergio A. Ortega, Pablo Fernandez and Miguel A. Martin-Delgado',
       author_email='sortega5892@gmail.com',
