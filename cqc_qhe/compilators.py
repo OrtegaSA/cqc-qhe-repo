@@ -133,8 +133,6 @@ def compile_rz_gate(theta,error=None,pauli=True,seed=32):
         seed: Random seed for the gridsynth algorithm. Default: 32.
     Returns:
         chain: String with the sequence of Clifford+T gates.
-    Raises:
-        warning: If gridsynth produces an empty string.
     """
     
     while theta < 0: theta += 2*np.pi
@@ -143,8 +141,6 @@ def compile_rz_gate(theta,error=None,pauli=True,seed=32):
     chain = gridsynth(theta,error,seed)
     
     if chain == '':
-        # raise Exception('gridsynth produced an empty string.')
-        warnings.warn('gridsynth produced an empty string.')
         chain = 'I'
     
     if pauli:
