@@ -313,17 +313,6 @@ def compile_clifford_t_circuit(circuit,error_circuit=None,ancilla_top=False,erro
             compiled_circuit.sdg(qubits)
             compiled_circuit.h(qubits)
             compiled_circuit.rz(phi,qubits)
-            
-            # theta, phi, lam = d[0].params
-            # compiled_circuit.rz(lam,qubits)
-            # compiled_circuit.rz(-np.pi/2,qubits)
-            # compiled_circuit.h(qubits)
-            # compiled_circuit.rz(-np.pi/2,qubits)
-            # compiled_circuit.rz(theta+np.pi,qubits)
-            # compiled_circuit.rz(-np.pi/2,qubits)
-            # compiled_circuit.h(qubits)
-            # compiled_circuit.rz(-np.pi/2,qubits)
-            # compiled_circuit.rz(phi+3*np.pi,qubits)
         
         elif (name == 'mcx' or name == 'mcx_gray'):
             number_anc = len(qubits)-1 -2
