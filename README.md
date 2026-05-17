@@ -1,6 +1,9 @@
 <div align="center">    
  
 # CQC-QHE
+Sergio A. Ortega, Pablo Fernandez and Miguel A. Martin-Delgado
+
+Departamento de Física Teórica, Universidad Complutense de Madrid, 28040 Madrid, Spain
 
 
 [![arXiv](http://img.shields.io/badge/arXiv-2412.01966-B31B1B.svg)](https://arxiv.org/abs/2412.01966)
